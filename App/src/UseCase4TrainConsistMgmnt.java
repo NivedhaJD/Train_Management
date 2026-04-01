@@ -17,7 +17,7 @@ import java.util.LinkedList;
  * * @author Developer
  * @version 4.0
  */
-public class UseCase4TrainConsistMgmnt {
+public class UseCase5TrainConsistMgmnt {
 
     public static void main(String[] args) {
 
